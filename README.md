@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D5equj5
-- 👀 I’m interested in ... PLC's
+- 👀 I’m interested in ... PLC's and ML
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ... not much at all actually
+- 💞️ I’m looking to collaborate on ... not much at all really
 - 📫 How to reach me ... best not although if you insist - Jumps@live.co.uk
 
 <!---
